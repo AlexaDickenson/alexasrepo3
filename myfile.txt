@@ -11,3 +11,6 @@ After the files are added to the staging area, this command commits or saves the
 rm 
 
 This function deletes files. 
+git log 
+
+Using this command, you can see all the previous commits, with the most recent ones appearing first.  It will show all the commits of the branch you are currently checking out, but you can see all the branches' commits with the all option
