@@ -1,3 +1,8 @@
 rmdir 
 
 This function deletes directories. 
+
+git commit
+
+After the files are added to the staging area, this command commits or saves the changes but this oly happens locally
+
