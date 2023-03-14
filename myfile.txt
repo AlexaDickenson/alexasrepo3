@@ -1,3 +1,7 @@
 rmdir 
 
 This function deletes directories. 
+
+git blame 
+
+If you want to determine who made the changes to a file, use this command
