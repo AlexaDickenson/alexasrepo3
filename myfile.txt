@@ -1,0 +1,3 @@
+rmdir 
+
+This function deletes directories. 
